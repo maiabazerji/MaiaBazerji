@@ -14,23 +14,27 @@ By day, I’m crafting scalable web applications and leveraging AI to solve comp
 
 - **Building a business** combining AI services with web development and cybersecurity (because who doesn't want to rule the tech world?).
 - **Contributing to open-source** projects related to AI, web dev, and cybersecurity (you're welcome, open-source community).
-- **Writing a book** titled "Mastering Web Development in 30 Days" (you’ll be a pro in no time).
 - **Making Instagram cool** again with my handle [@codewizmaia](https://www.instagram.com/codewizmaia) 📸
 
 ## 🛠️ Technologies I work with:
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3)
-![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat&logo=php)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript)
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react)
-![Python](https://img.shields.io/badge/-Python-3572A5?style=flat&logo=python)
-![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat&logo=go)
-![Angular](https://img.shields.io/badge/-Angular-DD0031?style=flat&logo=angular)
-![GitLab CI/CD](https://img.shields.io/badge/-GitLab%20CI/CD-FCA121?style=flat&logo=gitlab)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker)
+[![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5)](https://developer.mozilla.org/en-US/docs/Web/HTML)
+[![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3)](https://developer.mozilla.org/en-US/docs/Web/CSS)
+[![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat&logo=php)](https://www.php.net/)
+[![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript)](https://www.typescriptlang.org/)
+[![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react)](https://reactjs.org/)
+[![Python](https://img.shields.io/badge/-Python-3572A5?style=flat&logo=python)](https://www.python.org/)
+[![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat&logo=go)](https://golang.org/)
+[![Angular](https://img.shields.io/badge/-Angular-DD0031?style=flat&logo=angular)](https://angular.io/)
+[![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=flat&logo=flutter)](https://flutter.dev/)
+[![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=postgresql)](https://www.postgresql.org/)
+[![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb)](https://www.mongodb.com/)
+[![GitLab CI/CD](https://img.shields.io/badge/-GitLab%20CI/CD-FCA121?style=flat&logo=gitlab)](https://about.gitlab.com/)
+[![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker)](https://www.docker.com/)
 
-## 📈 GitHub Stats (because who doesn’t love stats?):
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MaiaBazerji&show_icons=true&hide_title=true)
+## 🛠️ Project Management Tools:
+- [Trello](https://trello.com/) - Organizing tasks and managing projects effectively.
+- [Jira](https://www.atlassian.com/software/jira) - Managing and tracking progress of tech projects (especially for teams).
 
 ## 🐦 Find me on the web:
 - [LinkedIn](https://www.linkedin.com/in/maia-bazerji-980554202)
