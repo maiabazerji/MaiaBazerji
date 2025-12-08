@@ -8,7 +8,7 @@ I’m a **Full-Stack Developer** with a **Master’s degree in AI** and a **Bach
 
 By day, I’m crafting scalable web applications, training AI models, and leveraging machine learning to solve complex problems. By night, I’m working on building a business that combines AI, web development, and cybersecurity to create real-world value. In between, you’ll find me staying up-to-date with the latest industry trends, strategizing my next move, and enjoying a cup of coffee.
 
-🌍 **Location**: Le Kremlin-Bicetre, Paris.
+🌍 **Location**:Paris.
 
 ## 🚀 What am I working on?
 
@@ -16,7 +16,6 @@ By day, I’m crafting scalable web applications, training AI models, and levera
 - **Developing AI-powered applications**, including facial recognition, intelligent chatbots, and AI-enhanced cybersecurity.
 - **Exploring AI in cybersecurity**, such as behavior-based anomaly detection and AI-powered encryption.
 - **Contributing to open-source** projects related to AI, web dev, and cybersecurity.
-- **Making Instagram cool** again with my handle [@codewizmaia](https://www.instagram.com/codewizmaia) 📸
 - **Sharing my thoughts and articles** on Medium, Check out my latest posts [here](https://medium.com/@maiabazerji) 
 
 ## 🛠️ Technologies I work with:
@@ -58,9 +57,8 @@ By day, I’m crafting scalable web applications, training AI models, and levera
 
 ## 🐦 Find me on the web:  
 - [LinkedIn](https://www.linkedin.com/in/maia-bazerji-980554202) - Connect with me to discuss AI, web dev, cybersecurity, and more!  
-- [Medium](https://medium.com/@maia.bazerji) - Check out my tech articles and thought leadership.  
-- [Instagram](https://www.instagram.com/codewizmaia) - for tech tips, tricks, memes, and the occasional coffee shot
-
+- [Medium](https://medium.com/@maia.bazerji) - Check out my tech articles and thought leadership.
+  
 ## 🤖 Fun Fact About Me:  
 I can program AI to recognize faces... but I’m still working on training it to recognize the perfect cup of coffee. ☕ If you have tips, let me know!
 
