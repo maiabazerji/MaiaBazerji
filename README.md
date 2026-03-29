@@ -25,21 +25,21 @@ Currently preparing for **CDI opportunities** in AI Engineering, Data Engineerin
 
 ## Featured Projects
 
-### 🧠 Transformer-based Sentiment Analysis
-Fine-tuned BERT on domain-specific corpora for high-precision sentiment classification. Built a full inference pipeline with preprocessing, tokenization, and REST API serving.  
-`Python` `HuggingFace Transformers` `PyTorch` `FastAPI`
+### 🏷️ NER on Travel Orders
+Named Entity Recognition pipeline for automated extraction of structured data from unstructured travel/mission documents — traveler names, dates, destinations, and expense amounts. Fine-tuned a transformer-based sequence labeling model on annotated administrative text.  
+`Python` `HuggingFace Transformers` `spaCy` `PyTorch`
 
-### 👁️ Facial Recognition System
-End-to-end face detection and verification system using deep convolutional embeddings. Designed for real-time inference with configurable confidence thresholds.  
-`Python` `OpenCV` `TensorFlow` `NumPy`
+### 🧾 AI E-Invoicing Platform
+End-to-end intelligent invoicing system combining OCR document parsing with NLP-based field extraction (vendor, amount, VAT, date). Automates invoice validation and structured data export — full-stack application with a REST API backend.  
+`Python` `React` `Node.js` `MongoDB` `Docker` `FastAPI`
 
-### 🎙️ Speech Recognition Application
-Acoustic model + language model pipeline for automated speech-to-text. Evaluated on WER benchmarks across noisy-environment recordings.  
-`Python` `LibROSA` `TensorFlow` `NumPy`
+### 🚕 Reinforcement Learning — Taxi Driver
+Trained a Q-learning agent on the OpenAI Gym Taxi-v3 environment to solve the pickup/drop-off navigation problem. Compared tabular Q-learning convergence against a DQN baseline across reward curves and episode efficiency metrics.  
+`Python` `OpenAI Gym` `NumPy` `Matplotlib`
 
-### 🛍️ AI-Enhanced E-Commerce Platform
-Full-stack platform integrating personalized recommendations and intelligent search. Built with a microservices architecture and containerized for cloud deployment.  
-`React` `Node.js` `Python` `MongoDB` `Docker`
+### 🫁 Pneumonia Detection from Chest X-Rays
+Binary CNN classifier (Pneumonia vs. Normal) trained on chest X-ray images. Applied transfer learning with data augmentation to address class imbalance; evaluated on AUC, precision/recall, and confusion matrix.  
+`Python` `TensorFlow` `Keras` `OpenCV` `scikit-learn`
 
 ---
 
@@ -92,13 +92,13 @@ Full-stack platform integrating personalized recommendations and intelligent sea
 ## What I'm working on
 
 - Building production-grade ML pipelines: data → training → monitoring → retraining loops
-- Going deeper on **Data Engineering** (Spark, Airflow, dbt) and **MLOps** (MLflow, model registries, CI/CD for ML)
+- Going deeper on **Data Science** and **MLOps**
 - Writing about applied AI on [Medium](https://medium.com/@maia.bazerji)
 
 ---
 
 ## Let's connect
 
-I'm open to **CDI roles** in AI Engineering, Data Engineering, or Data Science — particularly teams working on real-world AI systems with serious engineering standards.
+I'm open to **CDI roles** in AI/Data Engineering, or Data Science — particularly teams working on real-world AI systems.
 
 [![LinkedIn](https://img.shields.io/badge/Reach_out_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/maia-bazerji-980554202)
