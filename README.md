@@ -3,12 +3,12 @@
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=6C63FF&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Maia+Bazerji+%F0%9F%91%8B;AI+Engineer+%7C+Data+Scientist;I+build+systems+that+learn." alt="Typing SVG" />
 
 <br/>
-[![site](https://img.shields.io/badge/Website-000000?style=flat-square&logo=googlechrome&logoColor=white)](https://maiabazerji.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/maiabazerji)
 [![Medium](https://img.shields.io/badge/Medium-000000?style=flat-square&logo=medium&logoColor=white)](https://medium.com/@maiabazerji)
 [![GitHub followers](https://img.shields.io/github/followers/maiabazerji?style=flat-square&color=6C63FF)](https://github.com/maiabazerji)
 [![Profile views](https://komarev.com/ghpvc/?username=maiabazerji&style=flat-square&color=6C63FF)](https://github.com/maiabazerji)
 
+https://maiabazerji.com
 </div>
 
 ---
