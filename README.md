@@ -4,6 +4,7 @@
 
 <br/>
 [![site](https://img.shields.io/badge/Website-000000?style=flat-square&logo=googlechrome&logoColor=white)](https://maiabazerji.com)
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/maiabazerji)
 [![Medium](https://img.shields.io/badge/Medium-000000?style=flat-square&logo=medium&logoColor=white)](https://medium.com/@maiabazerji)
 [![GitHub followers](https://img.shields.io/github/followers/maiabazerji?style=flat-square&color=6C63FF)](https://github.com/maiabazerji)
