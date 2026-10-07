@@ -62,7 +62,7 @@ Open-source evaluation harness built to catch quality regressions before they sh
 - FastAPI backend, Qdrant vector store, React front end.
 - *Keywords:* `RAG` `LLM Evaluation` `FastAPI` `Qdrant` `Python`
 
-**[Repository](https://github.com/maiabazerji/evalrag) · [Write-up on Medium](https://medium.com/@maiabazerji)**
+**[Repository](https://github.com/maiabazerji/rag_system) · [Write-up on Medium](https://medium.com/@maiabazerji)**
 
 ### 🗂️ Knowledge Management Platform (Kabeen)
 Built solo as the sole engineer, from ingestion through to the front end.
@@ -71,7 +71,6 @@ Built solo as the sole engineer, from ingestion through to the front end.
 - Zero-downtime deployment, model monitoring in service, human validation kept in the loop where accuracy mattered most.
 - *Keywords:* `RAG` `Knowledge Graph` `ETL` `Anomaly Detection` `Production`
 
-**[Case study](https://maiabazerji.com/projects/rag-kabeen/)**
 
 ### 🏷️ NER on French travel orders
 Named entity recognition (NER) extracting structured entities from unstructured French administrative documents.
